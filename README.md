@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java Like Projects
 - 📫 How to reach me @kartikaygarg0123@gmail.com
-- 😄 Pronouns: Kartik
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: We are friends
 
 <!---
